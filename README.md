@@ -2,6 +2,11 @@
 
 Cleo Studio is a cutting-edge, SaaS-based AI web application that enables users to generate professional, high-quality product advertisements in seconds using advanced AI models. Built with a focus on marketing automation and visual storytelling, the app leverages Bria AI’s image generation APIs to turn simple product descriptions or reference images into stunning lifestyle visuals — complete with custom backgrounds, shadows, and call-to-action overlays.
 
+
+## 💡 API Key
+
+You can get your API Key easily from Bria.ai , it's a simple two click authentication and sign up , after creating your account you can easily access your API Key.
+
 ## 🌟 Features
 
 - 🖼️ Generate HD product images from text prompts
@@ -17,8 +22,8 @@ Cleo Studio is a cutting-edge, SaaS-based AI web application that enables users 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/adsnap-studio.git
-cd adsnap-studio
+git clone https://github.com/HamzaImtiaz03/AI-SaaS-Web-App.git
+cd cleo-studio
 ```
 
 2. Install dependencies:
